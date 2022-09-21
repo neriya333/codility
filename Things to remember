@@ -1,3 +1,6 @@
 1) Edge cases: empty input, OVERFLOW probems.
 2) If I can solve half of the problem, solving it twice may be the trick
-3) 
+3) Memory usage in order to not compute by O(N!)...
+4) care int division, and bounderies.
+5) check odd & even inputs
+6) STACK: is used to remember states. (example :Wall.cpp)
